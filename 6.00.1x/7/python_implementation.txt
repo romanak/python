@@ -1,0 +1,1 @@
+You use pure python when it doesn't matter (most of the time) but when it does you switch to numpy, numba, cython or do specific functions or classes in C, C++ or Rust. My C & C++ are ok but I still mainly write python (because the writing is 10x as fast and there are stacks of libraries, python is the fun glue thing).
